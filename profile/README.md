@@ -9,7 +9,6 @@
 
 ## 🛠️ Tecnologias Usadas
 
-![Tech](https://img.shields.io/badge/Feito%20com-Python-blue?style=for-the-badge&logo=python)
 ![Tech](https://img.shields.io/badge/Front--End-HTML%2FCSS%2FJS-orange?style=for-the-badge&logo=javascript)
 ![Tech](https://img.shields.io/badge/Back--End-Node.js-green?style=for-the-badge&logo=node.js)
 ![Tech](https://img.shields.io/badge/DB-SQL-informational?style=for-the-badge&logo=mysql)
@@ -34,8 +33,7 @@ O projeto tem como foco entregar uma solução completa para empresas que deseja
 ### 📊 Dashboard dinâmico  
 ![Dashboard](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
-### 🤖 Chatbot integrado  
-![Chatbot](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)
+
 
 ---
 
