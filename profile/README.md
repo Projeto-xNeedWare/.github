@@ -28,7 +28,7 @@ O projeto tem como foco entregar uma solução completa para empresas que deseja
 ## 📸 Prévia do Projeto
 
 ### 💻 Interface principal  
-![Interface](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
+![Interface](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGlrenFzMHhuMGNwamhoOWllNHM4ejRqZGtyenM1d3Z6bGQzM2pyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U5OgQSxhzjR1t4McGc/giphy.gif)
 
 ### 📊 Dashboard dinâmico  
 ![Dashboard](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
